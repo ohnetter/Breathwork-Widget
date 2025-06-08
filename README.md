@@ -42,8 +42,7 @@ Perfect for Notion embeds or as a soft-focus browser tool 💗
 
 If this helped you breathe easier or brought a little calm to your day, consider buying me a coffee 💗
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-pink?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)  
-_(Replace `yourusername` with your actual Buy Me a Coffee link)_
+[![Buy Me a Coffee] https://coff.ee/ohnetter
 
 ---
 
