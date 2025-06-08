@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- 
+  Notion Breathing Widget
+  Author: ohnetter
+  Music by Migfus20 – https://migfus.site
+  Freesound profile: https://freesound.org/people/Migfus20/
+  Support: https://www.paypal.com/paypalme/migfus20
+  License: CC-BY 4.0
+-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Breathing Widget</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- In your <head> -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="widget">
+      <div class="pulse-ring" id="pulseRing"></div>
+      <div class="ripple"></div>
+      <!-- Add this line -->
+     <div id="circle" class="circle">
+  <span class="stacked">Just<br />Breathe</span>
+</div>
+
+    <audio
+      id="bg-music"
+      src="audio/guitar_do_6 (1).mp3"
+      preload="auto"
+    ></audio>
+    <script src="script.js"></script>
+  </body>
+</html>
