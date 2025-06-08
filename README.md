@@ -36,8 +36,9 @@ Want to embed this in **Notion**? Here's how:
 
 ## 📸 Preview
 
-![Inhale Screenshot](https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/inhale-preview.png)  
-![Exhale Screenshot](https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/exhale-preview.png)
+![Inhale](https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Inhale.png)  
+![Exhale](https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Exhale.png)
+
 
 ---
 
