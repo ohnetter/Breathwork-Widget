@@ -33,14 +33,14 @@ Want to embed this in **Notion**? Here's how:
 ✨ That’s it — your calming breathing circle is now part of your Notion flow.
 
 ---
-
 ## 📸 Preview
 
-![Inhale](https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Inhale.png)  
-![Exhale](https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Exhale.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Inhale.png" width="250" alt="Inhale preview" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Exhale.png" width="250" alt="Exhale preview" />
+</div>
 
-
----
 
 ## 🎵 Music Attribution
 
