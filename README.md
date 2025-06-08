@@ -35,11 +35,19 @@ Want to embed this in **Notion**? Here's how:
 ---
 ## 📸 Preview
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Inhale.png" width="250" alt="Inhale preview" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Exhale.png" width="250" alt="Exhale preview" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Inhale.png" width="200" /><br/>
+      <sub>Inhale</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/Exhale.png" width="200" /><br/>
+      <sub>Exhale</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🎵 Music Attribution
