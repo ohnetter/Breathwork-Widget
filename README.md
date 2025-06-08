@@ -7,8 +7,7 @@ Perfect for Notion embeds or as a soft-focus browser tool 💗
 
 ## 🌐 Live Demo
 
-👉 [Try it now on Netlify](https://your-netlify-link.netlify.app)  
-_(Replace this with your actual Netlify link)_
+👉 [Try it now on Netlify](https://notion-breathwork-widget-lilac-pink.netlify.app/)
 
 ---
 
@@ -21,11 +20,24 @@ _(Replace this with your actual Netlify link)_
 
 ---
 
-## 📥 How to Use
+## 📥 How to Use (for non-developers)
 
-1. Click the **Netlify link** above to open the widget
-2. Or download this repo and open `index.html` in your browser
-3. To embed in Notion, use [htmlsave.com](https://htmlsave.com) or a similar tool to generate an iframe link
+Want to embed this in **Notion**? Here's how:
+
+1. Open the [Netlify live link](https://notion-breathwork-widget-lilac-pink.netlify.app/)
+2. Copy the URL from your browser
+3. In Notion, type `/embed`
+4. Paste the link into the embed block
+5. Resize the widget block to your liking
+
+✨ That’s it — your calming breathing circle is now part of your Notion flow.
+
+---
+
+## 📸 Preview
+
+![Inhale Screenshot](https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/inhale-preview.png)  
+![Exhale Screenshot](https://raw.githubusercontent.com/ohnetter/Breathwork-Widget/main/assets/exhale-preview.png)
 
 ---
 
@@ -47,9 +59,4 @@ It helps support more soft web experiments and cozy breathing tools!
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot of the widget here (optional):
-
-```markdown
-![Lilac Pink Breathwork Widg]()
+Made with pastel pixels and calm energy by [@ohnetter](https://github.com/ohnetter)
